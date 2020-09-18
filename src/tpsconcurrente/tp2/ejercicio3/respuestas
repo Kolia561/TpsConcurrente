@@ -1,0 +1,10 @@
+
+a.El código sin la sentencia ​sleep()​.
+b.Dentro de la clase main realizar una iteración de una sentencia cualquiera con
+ un numero grande de veces.
+c.Ejecutar el código las veces que sea necesario hasta que la salida se
+ veamodificada.
+d.Dentro del bloque de iteraciones del inciso b) agregar una sentencia sleep().
+e.De la ejecución de los puntos anteriores ¿Qué puede deducir?
+f.Teniendo en cuenta el ejercicio anterior, agregar dos hilos "Pang" y "Pung".
+Ejecute varias veces y determine en cada momento el proceso que se está ejecutando.
